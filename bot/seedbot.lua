@@ -272,16 +272,14 @@ function create_config( )
     sudo_users = {212990316},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[avast V6.3 - Open Source
-    http://bit.ly/1SjFZ2e
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [[
+https://github.com/mostafa1382/TELESTUDY
 
-https://github.com/Arashalone/avast-BOT-V6.3/
+Developed and avast team owner: @TELESTUDY 
+@KALILINUXNEW
 
-Developed and avast team owner: @arashnomiri
 
-Our channel:
-@avast_team
+
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -442,6 +440,8 @@ Realm Commands:
 !support
 💬 راهنمای ربات (همین متن)
 !help
+ساخته شده توسط
+@TELESTUDY
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 ⚠️  شما ميتوانيد از ! و / استفاده کنيد. 
 ⚠️  تنها مديران ميتوانند ربات ادد کنند. 
