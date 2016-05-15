@@ -1,18 +1,11 @@
 do
 
 function run(msg, matches)
-  return 'avast-BOT V6.3'.. VERSION .. [[ 
- 
-  Developer : @arashnomiri
-  
-  Channel : @avast_team
-  
-  Open git : https://github.com/Arashalone/avast-BOT-V6.3.git
-  
- avast-BOT V6.3
-  
-  All rights reserved.
-  __________________]]
+  return 'TELESTUDY'.. VERSION .. [[
+  ساخته شده توسط 
+  @KALILINUXNEW
+  OR
+  @TELESTUDY]]
 end
 
 return {
